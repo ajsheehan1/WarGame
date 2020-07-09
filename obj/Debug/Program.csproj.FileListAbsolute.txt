@@ -1,0 +1,14 @@
+C:\Users\Nick\source\repos\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Nick\source\repos\Program\Program\bin\Debug\Program.exe
+C:\Users\Nick\source\repos\Program\Program\bin\Debug\Program.pdb
+C:\Users\Nick\source\repos\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Program\Program\obj\Debug\Program.exe
+C:\Users\Nick\source\repos\Program\Program\obj\Debug\Program.pdb
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\bin\Debug\Program.exe.config
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\bin\Debug\Program.exe
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\bin\Debug\Program.pdb
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\obj\Debug\Program.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\obj\Debug\Program.exe
+C:\ElevenFiftyProjects\GoldBadge\GoldBadge_Game-master\obj\Debug\Program.pdb

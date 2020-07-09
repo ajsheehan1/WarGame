@@ -9,16 +9,16 @@ namespace Program
     public class Game
     {
 
-        private Player Player1;
+        private Player Player1; 
         private Player Player2;
-        private int TurnCount; // # of turns, max 1000 for when War goes on forever
+        private int TurnCount; 
 
         public Game(string player1name, string player2name)
         {
             Player1 = new Player(player1name);
             Player2 = new Player(player2name);
 
-            var cards = Deck_Builder.CreateCards(); // shuffles cards
+            var cards = Deck_Builder.CreateCards(); // creates and shuffles cards
 
             var deck = Player1.Deal(cards); //returns player2 deck, player 1 keeps thier deck
             Player2.Deck = deck;
@@ -30,9 +30,9 @@ namespace Program
                 Console.WriteLine(Player1.Name + " is out of cards! " + Player2.Name + " Wins!");
                 return true;
             }
-            else if (!Player2.Deck.Any())5
+            else if (!Player2.Deck.Any())
             {
-                Console.WriteLine(Player2.Name + "is out of cards! " + Player1.Name + " Wins!");
+                Console.WriteLine(Player2.Name + " is out of cards! " + Player1.Name + " Wins!");
                 return true;
             }
             else if (TurnCount > 500)

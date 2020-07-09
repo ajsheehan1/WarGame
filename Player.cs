@@ -22,7 +22,7 @@ namespace Program
             Queue<Card> player1cards = new Queue<Card>();
             Queue<Card> player2cards = new Queue<Card>();
 
-            int counter = 2;
+            int counter = 10;
             while (cards.Any())
             {
                 if (counter % 2 == 0) //Card etiquette says the player who is NOT the dealer gets first card
